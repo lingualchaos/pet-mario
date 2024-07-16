@@ -1,5 +1,5 @@
-# pet-mario
-Smart Pet Gate System, an Embedded Systems Hardware Project
+# Smart Pet Gate System
+Embedded Systems Hardware Project
 
 ## Project Summary
 
