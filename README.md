@@ -1,5 +1,5 @@
 # Smart Pet Gate System
-Embedded Systems Hardware Project
+An Embedded Systems Hardware Project
 
 ## Project Summary
 
