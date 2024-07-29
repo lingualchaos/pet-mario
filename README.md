@@ -3,7 +3,7 @@ An Embedded Systems Hardware Project
 
 ## Project Summary
 
-Interfacing an IR sensor with an Arduino Uno to detect the presence of your pet. Upon detection of your pet, obstacle, gate opens for 3 seconds, simultaneously we will also get a notification on our phone through Bluetooth, and then closes back using a servo motor and light up the corresponding LED.
+Interfacing an IR sensor with an Arduino Uno to detect the presence of your pet. Upon detection of your pet i.e. obstacle, gate opens for 3 seconds, simultaneously a notification is sent on your phone through Bluetooth, the gate closes back using a servo motor and the corresponding LED lights up.
 
 The Smart Pet Gate System provides a practical solution for pet owners, ensuring their pets' safe and convenient movement in and out of the house. By integrating various hardware components and programming them using the Arduino platform, this project demonstrates the potential of embedded systems in solving everyday problems. Future enhancements could include implementing additional features such as remote control functionality, pet identification, and access logging.
 
